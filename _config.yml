@@ -16,11 +16,11 @@
 
 ## => Site Settings
 ##############################
-text_skin: ocean #  "ocean"
-highlight_theme: tomorrow-night-blue # "default" (default), "tomorrow", "tomorrow-night", "tomorrow-night-eighties", "tomorrow-night-blue", "tomorrow-night-bright"
-url     : https://github.com/kmw8551/kmw8551.github.io
+text_skin: "ocean" #  "ocean"
+highlight_theme: "tomorrow" # "default" (default), "tomorrow", "tomorrow-night", "tomorrow-night-eighties", "tomorrow-night-blue", "tomorrow-night-bright"
+url     : "https://github.com/kmw8551/kmw8551.github.io"
 baseurl : # does not include hostname
-title   : Data Killer Whale
+title   : "Data Killer Whale"
 description: > # this means to ignore newlines until "Language & timezone"
   Your Site Description
 
